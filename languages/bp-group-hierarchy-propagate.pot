@@ -1,0 +1,52 @@
+# Copyright (C) 2015 BP Group Hierarchy Propagate
+# This file is distributed under the same license as the BP Group Hierarchy Propagate package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BP Group Hierarchy Propagate 0.3.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bp-group-hierarchy-propagate\n"
+"POT-Creation-Date: 2015-12-01 16:02:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: bp-group-hierarchy-propagate.php:366
+msgid "Propagate Activity"
+msgstr ""
+
+#: bp-group-hierarchy-propagate.php:370
+msgid "Up"
+msgstr ""
+
+#: bp-group-hierarchy-propagate.php:371
+msgid "Down"
+msgstr ""
+
+#: bp-group-hierarchy-propagate.php:372
+msgid "Up &amp; Down"
+msgstr ""
+
+#: bp-group-hierarchy-propagate.php:374
+msgid "Select the direction in which you want group activity to propagate."
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "BP Group Hierarchy Propagate"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/christianwach/bp-group-hierarchy-propagate"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Enables propagation of Activity Items up or down a hierarchy of BuddyPress Groups established by the BP Group Hierarchy plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Christian Wach"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://haystack.co.uk"
+msgstr ""
